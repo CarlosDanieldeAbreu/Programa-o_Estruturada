@@ -1,0 +1,16 @@
+C:\Users\Carlos Daniel\source\repos\Programa_Estruturada\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\bin\Debug\net5.0\ProgramacaoEstruturada.ConsoleApp.exe
+C:\Users\Carlos Daniel\source\repos\Programa_Estruturada\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\bin\Debug\net5.0\ProgramacaoEstruturada.ConsoleApp.deps.json
+C:\Users\Carlos Daniel\source\repos\Programa_Estruturada\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\bin\Debug\net5.0\ProgramacaoEstruturada.ConsoleApp.runtimeconfig.json
+C:\Users\Carlos Daniel\source\repos\Programa_Estruturada\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\bin\Debug\net5.0\ProgramacaoEstruturada.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Carlos Daniel\source\repos\Programa_Estruturada\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\bin\Debug\net5.0\ProgramacaoEstruturada.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Programa_Estruturada\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\bin\Debug\net5.0\ref\ProgramacaoEstruturada.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Programa_Estruturada\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\bin\Debug\net5.0\ProgramacaoEstruturada.ConsoleApp.pdb
+C:\Users\Carlos Daniel\source\repos\Programa_Estruturada\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\obj\Debug\net5.0\ProgramacaoEstruturada.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Carlos Daniel\source\repos\Programa_Estruturada\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\obj\Debug\net5.0\ProgramacaoEstruturada.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Daniel\source\repos\Programa_Estruturada\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\obj\Debug\net5.0\ProgramacaoEstruturada.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Carlos Daniel\source\repos\Programa_Estruturada\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\obj\Debug\net5.0\ProgramacaoEstruturada.ConsoleApp.AssemblyInfo.cs
+C:\Users\Carlos Daniel\source\repos\Programa_Estruturada\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\obj\Debug\net5.0\ProgramacaoEstruturada.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Daniel\source\repos\Programa_Estruturada\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\obj\Debug\net5.0\ProgramacaoEstruturada.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Programa_Estruturada\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\obj\Debug\net5.0\ref\ProgramacaoEstruturada.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Programa_Estruturada\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\obj\Debug\net5.0\ProgramacaoEstruturada.ConsoleApp.pdb
+C:\Users\Carlos Daniel\source\repos\Programa_Estruturada\ProgramacaoEstruturada\ProgramacaoEstruturada.ConsoleApp\obj\Debug\net5.0\ProgramacaoEstruturada.ConsoleApp.genruntimeconfig.cache
